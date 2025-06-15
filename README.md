@@ -38,14 +38,25 @@
 ### Ютубери
 *(YouTube creators covering Android/dev topics)*
 
-...
+- [Roman Andrushchenko](https://www.youtube.com/@andrushchenko) - Навчальні відео, стріми
+
+- [Alexander Khyzhun](https://www.youtube.com/@khyzhun) - Навчальні відео, подкасти
+
+- [Кравець Кодить](https://www.youtube.com/@kravets.codes) - Навчальні відео
+
+- [Ukrainian Android Dev](https://www.youtube.com/@UkrainianAndroidDev) - Навчальні відео
+
 
 ---
 
 ### Твіч-стримери
 *(Twitch streamers doing Android/dev content)*
 
-...
+- [Roman Andrushchenko](https://www.twitch.tv/randrushchenko) - Інформативні, навчальні стріми (Як і на Ютуб)
+
+- [tetrahedronhead](https://www.twitch.tv/tetrahedronhead) - Досвічений розробник, стрімить розробку (Андроїд/KMP пет-проектів).
+
+- [VanKorno](https://www.twitch.tv/vankorno) - Розробник-любитель (я). Іноді стрімлю Андроїд-розробку, іноді - інші хоббі.
 
 ---
 
