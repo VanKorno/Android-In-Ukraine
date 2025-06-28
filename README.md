@@ -26,16 +26,30 @@
 
 *Звісно, що "інфрастуктурні" застосунки, що працюють по Україні, тут публікуватися не будуть, типу "Дії", інших застосунків від держави, банків, моб.операторів, інших компаній, що надають послуги населенню. Цей список більше про такий софт, яким можна або поділитися з закордонними друзями, або знайти для себе щось, що не побачиш в масштабних рекламних компаніях.*
 
+- [Zillya Mobile](https://play.google.com/store/apps/details?id=com.zillya.scanner) - Зілля від вірусів.
 
+- [Clear VPN](https://play.google.com/store/apps/details?id=com.macpaw.clearvpn.android&hl=en) - ВПН з безкоштовним преміумом для українців.
+  
+- [Grammarly](https://play.google.com/store/apps/details?id=com.grammarly.android.keyboard&hl=en) - Перевірка правопису, граматики, ШІ асистент з написання текстів.
 
-...
+- [Uspacy](https://play.google.com/store/apps/details?id=com.uspacy.app&hl=en) - Робочий простір для впорядкування процесів компаній малого та середнього бізнесу (CRM, робота з завданнями, внутрішня комунікація, взаємодію з клієнтами, інструменти автоматизації та аналітики)
+
+- [Worksection](https://play.google.com/store/apps/details?id=com.phonegap.worksection) - Ще один інструмент для проект-менеджменту.
+
+- [Kroha](https://play.google.com/store/apps/details?id=ua.com.tim_berners.parental_control&hl=en) - Батьківський контроль. Шнші застосунки від цього виробника: [Eyespro](https://play.google.com/store/apps/details?id=com.eyespro.bluelightfilter.nightmode), [KATERYNA](https://play.google.com/store/apps/details?id=com.kateryna)
+
+- [QuadroKeyboard](https://play.google.com/store/apps/details?id=com.vankorno.quadrokeyboard) - Альтернативна екранна клавіатура для швидкого набору. Поки що там лише англійська розкладка, але скоро буде і українська, і інші (окрім російської).
+
 
 ---
 
 ### Бібліотеки, корисні репозиторії, інструменти розробки
 *(Libraries, tools, dev repos by Ukrainian authors)*
 
-...
+- [uCrop](https://github.com/Yalantis/uCrop) - Ліба для обрізки картинок в застосунку.
+
+- [VanKornoDB](https://github.com/VanKorno/VanKornoDB) - Альтернатива більш обмежуючим розробника ОRM, таким як ROOM. (Ще на ранній стадії розробки)
+
 
 ---
 
