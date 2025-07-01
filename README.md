@@ -72,7 +72,7 @@
 
 - [Roman Andrushchenko](https://www.twitch.tv/randrushchenko) - Інформативні, навчальні стріми (Як і на Ютуб)
 
-- [tetrahedronhead](https://www.twitch.tv/tetrahedronhead) - Досвічений розробник, стрімить роботу з Андроїд/KMP пет-проектами.
+- [nevdatny](https://www.twitch.tv/nevdatny) - Досвічений розробник, стрімить роботу з Андроїд/KMP пет-проектами.
 
 - [VanKorno](https://www.twitch.tv/vankorno) - Розробник-любитель (я). Іноді стрімлю Андроїд-розробку, іноді - інші хоббі.
 
