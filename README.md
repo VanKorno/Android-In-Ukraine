@@ -48,7 +48,6 @@
 
 - [uCrop](https://github.com/Yalantis/uCrop) - Ліба для обрізки картинок в застосунку.
 
-- [VanKornoDB](https://github.com/VanKorno/VanKornoDB) - Альтернатива більш обмежуючим розробника ОRM, таким як ROOM. (Ще на ранній стадії розробки)
 
 
 ---
