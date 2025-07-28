@@ -46,7 +46,6 @@
 ### Бібліотеки, корисні репозиторії, інструменти розробки
 *(Libraries, tools, dev repos by Ukrainian authors)*
 
-- [uCrop](https://github.com/Yalantis/uCrop) - Ліба для обрізки картинок в застосунку.
 
 
 
